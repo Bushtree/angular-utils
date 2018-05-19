@@ -1,0 +1,16 @@
+{
+  "name": "@bushtree/angular-utils-core",
+  "contributors": [
+    {
+      "email": "arkadiusz.szechlicki@bushtree.eu",
+      "name": "aszechlicki",
+      "url": "https://github.com/aszechlicki"
+    }
+  ],
+  "license": "MIT",
+  "author": "Bushtree",
+  "version": "0.0.1-alpha",
+  "peerDependencies": {
+    "rxjs": "^6.1.0"
+  }
+}
